@@ -4,5 +4,5 @@
 - I like working with Discord 
 - I like working with Python
 
- ## Meine Stats
+ ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=blacklight19&show_icons=true&theme=dracula)
